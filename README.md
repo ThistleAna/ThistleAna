@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThistleAna
-- 👀 I’m interested in developing my coding skills
-- 🌱 I’m currently learning Phython and R
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 I’m just finished 12 weeks of Data Science Academy
+- 🌱 I’m currently learning Phython and R for Data Science
+- 💞️ I’m looking for junior data scientist position
 - 📫 How to reach me : ana.khasanah@hotmail.com
 
