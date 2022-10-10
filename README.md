@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThistleAna
-- 👀 I just finished 12 weeks of Data Science Academy
-- 🌱 I’m currently learning Phython and R for Data Science
-- 💞️ I’m looking for junior data scientist position
+- 👀 I finished 12 weeks of Data Science Academy
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking for a new way to teach programming
 - 📫 How to reach me : ana.khasanah@hotmail.com
 
